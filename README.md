@@ -1,5 +1,7 @@
 # Avaliador-Guia API (C#) – O Futuro do Trabalho
 
+Link vídeo do projeto: https://youtu.be/gsRkpgACbqU
+
 API RESTful em **ASP.NET Core Web API** que simula uma plataforma de **entrevistas técnicas com tutor de IA (simulado)**.  
 O foco não é apenas ver se o candidato “acertou o código”, mas **acompanhar o processo de pensamento**: quantas dicas pediu, em que ponto travou, como evoluiu a solução.
 
