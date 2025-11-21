@@ -252,7 +252,7 @@ Isso permite evoluir a API futuramente (ex.: `/api/v2/...`) sem quebrar clientes
 1. **Clonar o repositório ou extrair o .zip**
 
    ```bash
-   git clone https://github.com/SEU_USUARIO/AvaliadorGuia.Api.git_
+   git clone https://github.com/Gustavo-Dias23/AvaliadorGuia
 
 2. **Restaurar dependências**
 
